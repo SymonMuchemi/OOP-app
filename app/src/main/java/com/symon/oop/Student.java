@@ -16,4 +16,6 @@ public class Student {
     public String Display(){
         return "DeKUT";
     }
+
+
 }
